@@ -1,8 +1,8 @@
 name: edge_insert_observer
-description: A new Flutter package.
+description: 检测 Android,IOS EdgeInserts 完成事件.
 version: 0.0.1
-author:
-homepage:
+author: tangwanchao <18284228392@163.com>
+homepage: https://github.com/tangwanchao/flutter_edge_insert_observer
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
