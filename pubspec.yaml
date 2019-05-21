@@ -1,6 +1,6 @@
 name: edge_insert_observer
 description: 检测 Android,IOS EdgeInserts 完成事件.
-version: 0.0.1
+version: 0.0.2
 author: tangwanchao <18284228392@163.com>
 homepage: https://github.com/tangwanchao/flutter_edge_insert_observer
 
